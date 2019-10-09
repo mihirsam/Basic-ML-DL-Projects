@@ -14,6 +14,7 @@
 - os
 - cv2
 - scikit-learn
+- itertools
 
 ## Projects
 ### Malaria Detection Using CNN
@@ -27,3 +28,6 @@
 
 ### Redwine Quality Using Random Forest
 > Accuracy : 73.12 %
+
+### Weather Analysis Using k-Means Clustering
+> Accuracy : Check Files
